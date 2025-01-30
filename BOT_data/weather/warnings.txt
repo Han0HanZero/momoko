@@ -1,0 +1,7 @@
+White-⚪
+Blue-🔵
+Green-🟢
+Yellow-🟡
+Orange-🟠
+Red-🔴
+Black-⚫

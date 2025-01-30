@@ -1,0 +1,9 @@
+requests~=2.30.0
+lxml~=4.9.3
+beautifulsoup4~=4.12.2
+Pillow~=9.5.0
+uiautomation~=2.0.18
+comtypes~=1.1.14
+idna~=3.4
+urllib3~=2.0.2
+certifi~=2023.5.7
