@@ -1,0 +1,4 @@
+你需要在此文件夹内为每个动物添加一张图片。
+YOU NEED TO PUT IMAGES HERE FOR EVERY SINGLE ANIMAL.
+
+e.g. ele.png
