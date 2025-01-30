@@ -1,5 +1,5 @@
 # MOMOKO
-简体中文：https://github.com/Han0HanZero/momoko/README.md
+简体中文：https://github.com/Han0HanZero/momoko/blob/main/README.md
 ## Introduction
 MOMOKO is a WeChat/Weixin bot based on uiautomation. She is able to monitor the messages in the chat window of WeChat/Weixin (PC Edition), process them, and send a reply, which can be a text or a photo.
 

@@ -1,5 +1,5 @@
 # 桃桃子
-English: https://github.com/Han0HanZero/momoko/README_en.md
+English: https://github.com/Han0HanZero/momoko/blob/main/README_en.md
 ## 简介
 桃桃子是一个基于uiautomation库的微信机器人，能够监听微信电脑版v3的消息窗口的信息，进行处理，并发送回复。回复支持纯文本和图片。
 
